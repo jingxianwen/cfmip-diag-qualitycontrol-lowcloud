@@ -1,4 +1,4 @@
-Follow 'Source', 'Browse' and 'QC_LowCld_ncl' directories to find a wiki where a brief description and example of each diagnostic plot is shown in a PDF. The diagnostic scripts, written in NCL, are found under 'trunk'.
+Follow 'Source', 'Browse' and 'QC_LowCld_ncl' directories to find a wiki where a brief description and example of each diagnostic plot is shown in a PDF. The diagnostic scripts, written in NCL, are found under 'trunk'. At the beginning of each script there is a description of file information required and a list of adaptations that need to be made.
 
 
 There are two diagnostic scripts for the evaluation of low-level clouds and another two for general 'quality control'. I used the latter two to test CMIP5 model data which I downloaded. It may be of interest to some others using CMIP5 COSP output.
