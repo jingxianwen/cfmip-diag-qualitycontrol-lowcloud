@@ -1,4 +1,4 @@
-Follow 'Source', 'Browse' and 'QC_LowCld_ncl' directories to find a wiki where a brief description and example of each diagnostic plot is shown in a *.PDF. The diagnostic scripts, written in NCL, are found under 'trunk'.
+Follow 'Source', 'Browse' and 'QC_LowCld_ncl' directories to find a wiki where a brief description and example of each diagnostic plot is shown in a PDF. The diagnostic scripts, written in NCL, are found under 'trunk'.
 
 
 The observational data used in these NCL scripts can be found on the following web pages:
