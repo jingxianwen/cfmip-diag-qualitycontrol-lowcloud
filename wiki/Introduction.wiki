@@ -1,0 +1,19 @@
+Follow 'Source', 'Browse' and 'QC_LowCld_ncl' directories to find a wiki where a brief description and example of each diagnostic plot is shown in a *.PDF. The diagnostic scripts, written in NCL, are found under 'trunk'.
+
+
+The observational data used in these NCL scripts can be found on the following web pages:
+- OBS-4-MIPS (http://climserv.ipsl.polytechnique.fr/cfmip-obs/) for CALIPSO, CloudSat and Parasol.
+- ERA-Int (http://data-portal.ecmwf.int/data/d/interim_moda/) for large-scale properties such as vertical velocity.
+- CERES (http://ceres.larc.nasa.gov/cmip5_data.php).
+
+
+Model information used in the examples are from CMIP5 output.
+
+
+There are two diagnostic scripts for the evaluation of low-level clouds and another two for general 'quality control'. I used the latter two to test CMIP5 model data which I downloaded. It may be of interest to some others using CMIP5 COSP output.
+
+
+*References*
+1. Nam, C., and J. Quaas, Evaluation of clouds and precipitation in the ECHAM5 general circulation model using CALIPSO and CloudSat , J. Clim., 25, 4975-4992, doi:10.1175/JCLI-D-11-00347.1, 2012.
+
+2. Nam, C., S. Bony, J.-L. Dufresne, and H. Chepfer, The "too few, too bright" tropical low-cloud problem in CMIP5 models, Geophys. Res. Lett., 39, doi:10.1029/2012GL053421, 2012.
